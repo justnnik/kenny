@@ -5,7 +5,6 @@ I'm passionate about **Database Management and Data Engineer** and love building
 Yes, I'm still a beginner — but I'm learning, experimenting, and growing every step of the way. 🚀
 
 ---
-
 ### 💻 Tech Stack
 
 - **Language:** Python  

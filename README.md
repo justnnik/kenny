@@ -1,9 +1,7 @@
-# kenny
-Welcome to my GitHub! I share my journey as a beginner in data engineer and analyst
 ### Hi, I'm Kenny! 👋
 
 Welcome to my GitHub profile!  
-I'm passionate about **Database Management** and love building **impactful project systems**.  
+I'm passionate about **Database Management and Data Engineer** and love building **impactful project systems**.  
 Yes, I'm still a beginner — but I'm learning, experimenting, and growing every step of the way. 🚀
 
 ---
